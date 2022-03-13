@@ -62,4 +62,10 @@ Microsoft Edge Tabs:
 
 ![screenshot of developer mode](https://github.com/Bazgha19/Flopan/blob/master/Example/result.png)
 
+# Contributors
+
+[Bazgha Razi](https://github.com/Bazgha19)
+
+[Ashish Kumar](https://github.com/Ashish2000L)
+
 
