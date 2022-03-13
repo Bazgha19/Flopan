@@ -58,5 +58,8 @@ Microsoft Edge Tabs:
 ![screenshot of developer mode](https://github.com/Bazgha19/Flopan/blob/master/Example/tabs.png)
 
 
+# Enjoy Flopan
+
+![screenshot of developer mode](https://github.com/Bazgha19/Flopan/blob/master/Example/result.png)
 
 
